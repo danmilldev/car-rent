@@ -1,4 +1,6 @@
-# Car Rent Demo Website written in HTML and CSS
+# Car Rent Demo Website
+
+Written in HTML and CSS
 
 A Live Demo:
 
